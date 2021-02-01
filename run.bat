@@ -1,0 +1,1 @@
+"C:\Users\Gabo Banda\Documents\Proyectos\twitter_bot\Scripts\activate" & "C:\Users\Gabo Banda\Documents\Proyectos\twitter_bot\Scripts\python3.exe" "C:\Users\Gabo Banda\Documents\Proyectos\twitter_bot\draw.py"
